@@ -9,5 +9,5 @@ APIを押してchatGPTの API key を入力後，議題を入力してSENDを押
 Three chatGPTs will discuss. Currently, however, each person only expresses his/her opinion.
 If all three agree, a conclusion is reached by summing up the opinions of the three participants. If not, the conclusion is "We need Discussion!".
 
-Press API, enter the API key in the chatGPT, enter the agenda, and press SEND to start.
+Press API, enter the API key for chatGPT, enter the agenda, and press SEND to start.
 
